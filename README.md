@@ -34,7 +34,8 @@ Files:
 ## ⚡ Features
 
 - Random Forest Classifier  
-- Decision Tree Classifier  
+- Decision Tree Classifier
+- Xg Boost Classifier 
 - Data preprocessing with Label Encoding  
 - Evaluation using Accuracy, Confusion Matrix, F1-score  
 
