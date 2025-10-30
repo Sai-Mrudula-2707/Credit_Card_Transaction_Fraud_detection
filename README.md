@@ -20,6 +20,7 @@ Files:
 
 | Column | Description |
 |--------|-------------|
+| amt | amount |
 | trans_num | Transaction ID |
 | trans_date_trans_time | Transaction timestamp |
 | category | Transaction category |
